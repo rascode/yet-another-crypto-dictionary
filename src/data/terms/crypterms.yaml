@@ -1,0 +1,29 @@
+terms:
+  - term: Bitcoin
+    summary:
+      name: Bitcoin
+      definition: A peer-to-peer electronic cash system
+      accronym: null
+      author: Satoshi Nakamoto
+    exchange:
+      symbol: BTC
+    date:
+      created: Sunday, February 13, 2022 2:31 PM
+      last_updated: Sunday, February 13, 2022 2:31 PM
+    explainers:
+      posts: null
+      video: null
+      people: null
+  - term: Blockchain
+    summary:
+      name: Blockchain
+      definition: null
+      accronym: null
+      author: null
+    date:
+      created: null
+      last_updated: null
+    explainers:
+      posts: null
+      video: null
+      people: null

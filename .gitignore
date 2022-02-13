@@ -1,0 +1,12 @@
+# Mac Files
+.DS_Store
+
+# NodeJS
+node_modules
+
+# Environment Variables
+.env
+
+# Build Folders
+dist
+build

@@ -1,0 +1,20 @@
+{
+  "name": "yet-another-crypto-dictionary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rascode",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.27.1"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
